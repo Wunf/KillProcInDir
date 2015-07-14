@@ -1,0 +1,8 @@
+*.sdf
+*.suo
+*.opensdf
+ipch/
+Debug/
+Release/
+KillProcInDir/Debug/
+KillProcInDir/Release/
